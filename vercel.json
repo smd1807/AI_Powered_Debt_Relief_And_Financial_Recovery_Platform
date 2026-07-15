@@ -8,5 +8,11 @@
       "root": "9_Project_Files/backend",
       "framework": "fastapi"
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
