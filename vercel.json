@@ -1,11 +1,11 @@
 {
   "services": {
     "frontend": {
-      "root": "frontend",
+      "root": "9_Project_Files/frontend",
       "framework": "vite"
     },
     "backend": {
-      "root": "backend",
+      "root": "9_Project_Files/backend",
       "framework": "fastapi"
     }
   }
